@@ -1,4 +1,5 @@
 ResNet/data
 ResNet/resnet.pt
-ResNet/ipynb_checkpoints
+ResNet/.ipynb_checkpoints
 ResNet/__pycache__
+venv
