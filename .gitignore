@@ -1,5 +1,5 @@
-ResNet/data
-ResNet/resnet.pt
-ResNet/.ipynb_checkpoints
-ResNet/__pycache__
+example/ResNet/data
+exampleResNet/resnet.pt
+.ipynb_checkpoints
+example/ResNet/__pycache__
 venv
