@@ -1,0 +1,9 @@
+#INITIAL SETTINGS
+model: resnet50
+dataset: cifar10
+data_path: ./data
+workers: 8
+cuda: True
+batch_size: 16
+lr: 0.01
+epochs: 100
